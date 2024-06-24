@@ -2,9 +2,6 @@ from tools.PriorityQueue import *
 
 INF = 999
 
-
-
-
 def low_level_search():
     # Fill in
     return None
